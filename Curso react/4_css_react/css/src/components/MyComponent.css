@@ -1,0 +1,9 @@
+p {
+  color: green;
+  background-color: black;
+}
+/*criou uma classe para o estilo do componente não vazar para outros como aconteceu na regra p acima.*/
+.my-comp-paragraph{
+  color: black;
+  background-color: gold;
+}
