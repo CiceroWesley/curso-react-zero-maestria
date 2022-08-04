@@ -1,0 +1,8 @@
+/* centralizando a div App */
+.App {
+  display: flex;
+  flex-direction: row; /*padrão*/
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
