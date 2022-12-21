@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "caderno",
+      "price": "21.5",
+      "id": 4
+    },
+    {
+      "name": "caneta branca bic",
+      "price": "0.7",
+      "id": 5
+    },
+    {
+      "name": "borracha",
+      "price": "1",
+      "id": 6
+    },
+    {
+      "name": "lapis",
+      "price": "1.5",
+      "id": 7
+    },
+    {
+      "name": "calça",
+      "price": "64",
+      "id": 8
+    }
+  ]
+}
