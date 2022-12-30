@@ -39,6 +39,61 @@
       "name": "calça",
       "price": "64",
       "id": 8
+    },
+    {
+      "name": "teste",
+      "price": "1",
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 10
+    },
+    {
+      "name": "blusa branca",
+      "price": "32",
+      "id": 11
+    },
+    {
+      "name": "CALÇA",
+      "price": "32",
+      "id": 12
+    },
+    {
+      "name": "caixinhas de som",
+      "price": "76",
+      "id": 13
+    },
+    {
+      "name": "pendrive",
+      "price": "21",
+      "id": 14
+    },
+    {
+      "name": "pendrive",
+      "price": "21",
+      "id": 15
+    },
+    {
+      "name": "pendrive",
+      "price": "21",
+      "id": 16
+    },
+    {
+      "name": "pendrive",
+      "price": "21",
+      "id": 17
+    },
+    {
+      "name": "pendrive",
+      "price": "21",
+      "id": 18
+    },
+    {
+      "name": "pendrive",
+      "price": "21",
+      "id": 19
     }
   ]
 }
