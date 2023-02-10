@@ -1,9 +1,9 @@
-.photo-item img{
+.photo-item img {
   width: 100%;
 }
 
 #home .photo-item h2 {
-  margin-bottom: .2em;
+  margin-bottom: 0.2em;
 }
 
 .photo-author {
@@ -13,4 +13,3 @@
 .photo-author a {
   font-weight: bold;
 }
-
